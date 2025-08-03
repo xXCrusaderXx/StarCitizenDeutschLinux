@@ -1,0 +1,29 @@
+{
+    "channels": {
+        "EPTU": {
+            "installPath": "",
+            "selectedTrans": ""
+        },
+        "LIVE": {
+            "installPath": "",
+            "selectedTrans": ""
+        },
+        "PTU": {
+            "installPath": "",
+            "selectedTrans": ""
+        },
+        "TECH-PREVIEW": {
+            "installPath": "",
+            "selectedTrans": ""
+        }
+    },
+    "settings": {
+        "autoTranslationAtStart": false,
+        "autoNewTranslation": false,
+        "minimizeScdAfterUpdate": false,
+        "LaunchScAfterTranslation": false,
+        "startScdWithSystemStart": false,
+        "showUpdateStatus": false,
+        "rsiLauncherInstallPath": ""
+    }
+}
